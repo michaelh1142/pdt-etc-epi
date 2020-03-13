@@ -1,0 +1,23 @@
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\bin\Debug\pdt.etc.epi.dll
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\bin\Debug\pdt.etc.epi.pdb
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\bin\Debug\PepperDash_Core.dll
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\bin\Debug\PepperDash_Essentials_Core.dll
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\bin\Debug\PepperDash_Essentials_DM.dll
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\bin\Debug\PepperDashEssentials.dll
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\bin\Debug\SimplSharpNewtonsoft.dll
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\bin\Debug\SimplSharpReflectionInterface.dll
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\bin\Debug\Crestron.SimplSharpPro.Lighting.dll
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\bin\Debug\Crestron.SimplSharpPro.Gateways.dll
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\bin\Debug\SimplSharpSQLHelperInterface.dll
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\bin\Debug\Crestron.SimplSharpPro.Fusion.dll
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\bin\Debug\Crestron.SimplSharpPro.Shades.dll
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\bin\Debug\Crestron.SimplSharpPro.EthernetCommunications.dll
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\bin\Debug\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\bin\Debug\Crestron.SimplSharpPro.UI.dll
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\bin\Debug\SimplSharpTimerEventInterface.dll
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\bin\Debug\Essentials Devices Common.dll
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\bin\Debug\Crestron.SimplSharpPro.GeneralIO.dll
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\bin\Debug\Crestron.SimplSharpPro.DM.dll
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\obj\Debug\pdt.etc.epi.dll
+C:\Users\mhengeli\Documents\PDT.ETC.EPI\pdt.etc.epi\pdt.etc.epi\obj\Debug\pdt.etc.epi.pdb

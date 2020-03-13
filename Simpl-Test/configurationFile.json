@@ -1,0 +1,119 @@
+{
+    "system_url": "https://portal.cloud.pepperdash.com/systems/067c95f6-a5ed-4070-b587-9d0dd9863ff5/#/system_summary",
+    "template": {
+        "info": {
+            "comment": "",
+            "requiredControlSofwareVersion": "",
+            "systemType": "presentation",
+            "lastModifiedDate": "2018-07-09T20:00:47.873Z",
+            "lastUid": 23,
+            "processorType": "av3"
+        },
+        "devices": [
+            {
+                "key": "processor",
+                "uid": 0,
+                "type": "av3",
+                "name": "AV3",
+                "group": "processor",
+                "supportedConfigModes": [
+                    "compliance",
+                    "essentials"
+                ],
+                "supportedSystemTypes": [
+                    "hudType",
+                    "presType",
+                    "vtcType",
+                    "custom"
+                ],
+                "supportsCompliance": true,
+                "properties": {}
+            },
+            {
+            "key": "lighting-1",
+				"uid": 4,
+				"type": "lutronquantum",
+				"name": "Lutron Quantum Lighting",
+				"group": "lighting",
+                "properties": {
+                    "control": {
+                        "endOfLineString": "\n",
+                        "deviceReadyResponsePattern": "",
+                        "method": "ssh",
+                        "tcpSshProperties": {
+                            "address": "127.0.0.2",
+                            "port": 22,
+                            "autoReconnect": true,
+                            "AutoReconnectIntervalMs": 10000,
+                            "username": "default",
+                            "password": "default"
+                        }
+                    },
+                    "zoneList": {
+                        "Zone01": {
+							"enabled": true,
+							"label": "Zone 1",
+							"integrationId": 101,
+                            "scenes": {
+                                "Scene01":{
+                                    "enabled": true,
+                                    "label": "Scene 1",
+                                    "sceneNum": 1
+                                },
+                                "Scene02":{
+                                    "enabled": true,
+                                    "label": "Scene 2",
+                                    "sceneNum": 2
+                                }
+                            }
+                        },
+                        "Zone02": {
+							"enabled": true,
+							"label": "Zone 2",
+							"integrationId": 102,
+                            "scenes": {
+                                "Scene01":{
+                                    "enabled": true,
+                                    "label": "Scene 1",
+                                    "sceneNum": 1
+                                },
+                                "Scene02":{
+                                    "enabled": true,
+                                    "label": "Scene 2",
+                                    "sceneNum": 2
+                                }
+                            }
+                        }
+                    }
+                }
+            },        
+            {
+                "key": "lightingBridge",
+                "uid": 11,
+                "name": "Bridge Lighting",
+                "group": "api",
+                "type": "eiscApi",
+                "properties": {
+                    "control": {
+                        "tcpSshProperties": {
+                            "address": "127.0.0.2",
+                            "port": 0
+                        },
+                        "ipid": "11",
+                        "method": "ipidTcp"
+                    },
+                    "devices": [
+                        {
+                            "deviceKey": "lighting-1",
+                            "joinStart": 1
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "template_url": "https://portal.cloud.pepperdash.com/templates/918730b2-1acd-4d22-93c2-21ef31732530/#/template_summary",
+    "system": {
+
+    }
+}
